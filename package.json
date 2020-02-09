@@ -1,0 +1,15 @@
+{
+  "name": "optimize-img",
+  "version": "1.0.0",
+  "description": "",
+  "main": "optimize.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "deploy": "serverless deploy -v"
+  },
+  "dependencies": {
+    "sharp": "^0.24.0"
+  }
+}
